@@ -89,3 +89,51 @@
 05062022 12:23:28 PM: INFO: -------Add customer validation End---------
 05062022 12:23:35 PM: INFO: ----------Start___Test__001___login_____
 05062022 12:23:40 PM: INFO: ----------End___Test__001___login_____
+05062022 04:34:06 PM: INFO: ----------Start___test_AddCustomer_____
+05062022 04:34:35 PM: INFO: ----------login Successful_____
+05062022 04:34:35 PM: INFO: ----------starting AddCustomer_____
+05062022 04:35:07 PM: INFO: ----------Start___Test__001___login_____
+05062022 04:35:11 PM: INFO: ----------End___Test__001___login_____
+05062022 04:45:11 PM: INFO: ----------Start___test_AddCustomer_____
+05062022 04:45:37 PM: INFO: ----------login Successful_____
+05062022 04:45:37 PM: INFO: ----------starting AddCustomer_____
+05062022 04:46:02 PM: INFO: ----------Start___Test__001___login_____
+05062022 04:46:08 PM: INFO: ----------End___Test__001___login_____
+05062022 04:51:50 PM: INFO: ----------Start___test_AddCustomer_____
+05062022 04:51:58 PM: INFO: ----------login Successful_____
+05062022 04:51:58 PM: INFO: ----------starting AddCustomer_____
+05062022 04:52:21 PM: INFO: ----------Providing Customer info_____
+05062022 04:52:30 PM: INFO: -------Saving customer info--------
+05062022 04:52:30 PM: INFO: -------Add customer validation started---------
+05062022 04:52:30 PM: INFO: -------Testcase Add customer Passed---------
+05062022 04:52:30 PM: INFO: -------Add customer validation End---------
+05062022 04:52:33 PM: INFO: ----------Start___Test__001___login_____
+05062022 04:52:58 PM: INFO: ----------End___Test__001___login_____
+05062022 06:23:41 PM: INFO: ----------Start___test_AddCustomer_____
+05062022 06:23:55 PM: INFO: ----------login Successful_____
+05062022 06:23:55 PM: INFO: ----------starting AddCustomer_____
+05062022 06:24:19 PM: INFO: ----------Providing Customer info_____
+05062022 06:24:28 PM: INFO: -------Saving customer info--------
+05062022 06:24:28 PM: INFO: -------Add customer validation started---------
+05062022 06:24:28 PM: INFO: -------Testcase Add customer Passed---------
+05062022 06:24:28 PM: INFO: -------Add customer validation End---------
+05062022 06:24:31 PM: INFO: ----------Start___Test__001___login_____
+05062022 06:24:35 PM: INFO: ----------End___Test__001___login_____
+05062022 06:24:37 PM: INFO: ----------Start___test_login_____
+05062022 06:25:18 PM: INFO: ----------Start___test_login_____
+05062022 06:25:31 PM: INFO: -----TestCase Passed------
+05062022 06:25:34 PM: INFO: ----------Start___test_SearchCustomerByEmil_____
+05062022 06:25:44 PM: INFO: ----------login Successful_____
+05062022 06:25:44 PM: INFO: ----------Starting___Search Customer By Emil_____
+05062022 06:26:05 PM: INFO: ----------Ending___Search Customer By Emil_____
+05062022 06:26:05 PM: INFO: ----------End___test_SearchCustomerByEmil_____
+05062022 06:30:20 PM: INFO: ----------Start___test_AddCustomer_____
+05062022 06:30:30 PM: INFO: ----------login Successful_____
+05062022 06:30:30 PM: INFO: ----------starting AddCustomer_____
+05062022 06:30:47 PM: INFO: ----------Start___Test__001___login_____
+05062022 06:30:51 PM: INFO: ----------End___Test__001___login_____
+05062022 06:30:53 PM: INFO: ----------Start___test_login_____
+05062022 06:31:11 PM: INFO: ----------Start___test_login_____
+05062022 06:31:19 PM: INFO: ----------Start___test_SearchCustomerByEmil_____
+05062022 06:31:26 PM: INFO: ----------login Successful_____
+05062022 06:31:26 PM: INFO: ----------Starting___Search Customer By Emil_____
